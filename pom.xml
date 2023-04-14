@@ -3,4 +3,8 @@
   <groupId>JarFileCreation</groupId>
   <artifactId>JarFileCreation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+	  
+	  <finalName>JarFileCreation</finalName>
+  </build>
 </project>
